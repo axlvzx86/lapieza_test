@@ -8,7 +8,7 @@ const HomeScreen = () => {
 
     return (
         <View style={{ flex: 1 }}>
-            <View style={{ flex: .3 }} >
+            <View style={{ flex: .5 }} >
                 <DateAndTime />
             </View>
             <View style={{ flex: 3 }} >
